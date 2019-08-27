@@ -1,0 +1,2 @@
+# ReversAI
+AI for Reversi
